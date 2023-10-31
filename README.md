@@ -1,1 +1,1 @@
-# lecia08
+# lekcia08
